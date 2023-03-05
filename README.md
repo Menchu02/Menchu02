@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+    <img src="https://media.giphy.com/media/bZVnr05ibCddKi5eFR/giphy.gif"/>
 </div>
 <h1 align="center">Hi, I'm Carmen”</h1>
-    <h3 align="center">Desarrollador web FullStack, con conocimientos en HTML, CSS, JavaScript... Llevando a cabo, las metodologías ágiles: kanban y Scrum...</h3>
+    <h3 align="center">Desarrollador web FullStack, con conocimientos en HTML, CSS, JavaScript, React, Java... Llevando a cabo, las metodologías ágiles: kanban y Scrum...</h3>
 
 ---
   ### About Me:
   - Mi correo electrónico es ****
-  - Ahora mismo, estoy aprendiendo **React.js, Phyton**
-  - Si quieres añadir un link de un video es así [https://www.youtube.com/watch?v=jQi77xni1p8&t=1567s]
-  - [Linkedin]()
+  - Ahora mismo, estoy aprendiendo **React.js,Java**
+ 
+  - [Linkedin](https://www.linkedin.com/in/carmen-blanco-delgado-892711233/)
 
 <div align="left">
    <h3> Lenguajes y herramientas:  </h3>
