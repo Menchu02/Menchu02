@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Menchu02/Menchu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
   ### About Me:
-  - Mi correo electrónico es ****
+  - Mi correo electrónico es menxuuu02@gmail.com
   - Ahora mismo, estoy aprendiendo **React.js,Java**
  
   - [Linkedin](https://www.linkedin.com/in/carmen-blanco-delgado-892711233/)
