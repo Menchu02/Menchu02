@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
   ### About Me:
   - Mi correo electrónico es menxuuu02@gmail.com
-  - Ahora mismo, estoy aprendiendo **React.js,Java**
+  - Ahora mismo, estoy aprendiendo **Java**
  
   - [Linkedin](https://www.linkedin.com/in/carmen-blanco-delgado-892711233/)
 
