@@ -19,23 +19,27 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/bZVnr05ibCddKi5eFR/giphy.gif"/>
 </div>
 <h1 align="center">Hi, I'm Carmen”</h1>
-    <h3 align="center">Desarrollador web FullStack, con conocimientos en HTML, CSS, JavaScript, React, Java... Llevando a cabo, las metodologías ágiles: kanban y Scrum...</h3>
+    <h3 align="center">FullStack developer, with knowledge in HTML, CSS, JavaScript, React, Java...  agile methodologies: kanban and Scrum...</h3>
 
 ---
   ### About Me:
-  - Mi correo electrónico es menxuuu02@gmail.com
-  - Ahora mismo, estoy aprendiendo **Java**
+  - EMAIL:  menxuuu02@gmail.com
+  - At the moment learning Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40"/>
  
   - [Linkedin](https://www.linkedin.com/in/carmen-blanco-delgado-892711233/)
 
-<div align="left">
-   <h3> Lenguajes y herramientas:  </h3>
-   <div>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+
+       
+       
+<div align="center">
+    <h2 align="center">Technologies Used</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+ 
+  </div>
      
      
-     —
+     
